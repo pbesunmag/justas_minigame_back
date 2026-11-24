@@ -1,0 +1,5 @@
+com\jousting\rpg\api\GameApiIntegrationTest.class
+com\jousting\rpg\security\SecurityAndSaveGameTest.class
+com\jousting\rpg\service\CombatEngineTest.class
+com\jousting\rpg\service\ProgressionAndArmoryTest.class
+com\jousting\rpg\service\combate\CombateServiceTest.class
